@@ -1,0 +1,16 @@
+client/node_modules/
+client/build
+server/node_modules/
+server/public/
+
+# misc
+*.DS_Store
+*.env.local*
+*.env.development*
+*.env.test.local
+*.env.production*
+*.env
+*.pdf
+*.txt
+*.xlsx
+package-lock.json
